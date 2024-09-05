@@ -2,7 +2,7 @@
 
 🚀 Passionate **Software Developer** with a strong focus on **Back-end Development** using **ASP.NET Core**, **Node.js**, and **RESTful APIs**. I love building robust and scalable applications that solve real-world problems.
 
-![Profile Banner](https://user-images.githubusercontent.com/placeholder/your-banner.png) <!-- Banner image (optional) -->
+
 
 ---
 
@@ -30,10 +30,7 @@
 
 ---
 
-## 📊 GitHub Stats:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mehmetkutluk&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetkutluk&layout=compact&theme=radical)
 
 ---
 
